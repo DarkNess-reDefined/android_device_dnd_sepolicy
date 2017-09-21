@@ -1,7 +1,7 @@
 #
 # This policy configuration will be used by all products that
-# inherit from Lineage
+# inherit from DarkNess-reDefined
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/lineage/sepolicy/common
+    device/dnd/sepolicy/common
